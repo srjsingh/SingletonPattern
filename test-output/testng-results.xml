@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-04T23:54:24 IST" name="Default suite" finished-at="2021-07-04T23:54:45 IST" duration-ms="21133">
+    <groups>
+    </groups>
+    <test started-at="2021-07-04T23:54:24 IST" name="Default test" finished-at="2021-07-04T23:54:45 IST" duration-ms="21133">
+      <class name="PageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTest@433d61fb]" started-at="2021-07-04T23:54:24 IST" name="setup" finished-at="2021-07-04T23:54:40 IST" duration-ms="15878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testMethod()[pri:0, instance:PageTest@433d61fb]" started-at="2021-07-04T23:54:40 IST" name="testMethod" finished-at="2021-07-04T23:54:44 IST" duration-ms="4110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:PageTest@433d61fb]" started-at="2021-07-04T23:54:44 IST" name="tearDown" finished-at="2021-07-04T23:54:45 IST" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
