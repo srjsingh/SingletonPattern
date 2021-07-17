@@ -10,7 +10,7 @@ public class Singleton {
 	// Initialization)
 
 	//diff bw normal class and singleton class:
-	//for normalclass we use constructor where as for singleton class we use getInstance() method for instantiation.
+	//for normal class we use constructor where as for singleton class we use getInstance() method for instantiation.
 	
 	private static Singleton singleton_instance = null;
 
