@@ -23,8 +23,10 @@ public class DriverInit {
 
 	public static DriverInit getInstance() {
 
-		if (instanceDriver == null)
+		if (instanceDriver == null) {
 			instanceDriver = new DriverInit();
+		}
+
 		return instanceDriver;
 	}
 
